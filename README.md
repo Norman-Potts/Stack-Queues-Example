@@ -8,12 +8,20 @@ If the user then were to type -2, the current value becomes 30.00.
 If the user then were to type /3,  the current value becomes 10.00. 
  
 The program can accept five different commands. They are X, C, D, U, R.  
+
 X - Exit ends the program.
+
 C - Clear clears the operation.
+
 D - Display prints out the operation deque.
-U - Undo removes the last item in operation.   
+
+U - Undo removes the last item in operation.
+
 R - Redo redoes the last item undone.   
    
+ 
+ 
+ 
  
  
  The operations are stored in a deque. The undo command removes the last operation from the deque and
