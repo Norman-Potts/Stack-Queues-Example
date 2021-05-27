@@ -11,8 +11,8 @@ The program can accept five different commands. They are X, C, D, U, R.
 X - Exit ends the program.
 C - Clear clears the operation.
 D - Display prints out the operation deque.
-U - Undo removes the last item in operation.  removes the last item in operation. deque and places it in the undo stack.
-R - Redo redoes the last item undone.  at the top of the undo stack and places it in operation deque.
+U - Undo removes the last item in operation.   
+R - Redo redoes the last item undone.   
    
  
  
